@@ -1,6 +1,11 @@
-[墙已加高，建议使用ssr替代本项目。。。]
+[墙已加高，建议使用ssr或者v2ray替代本项目。。。]
 
-# 目前通过squid已经访问https都会被墙，需要数据进行加密，例如  可以配合stunnel继续使用
+交流二群 
+https://t.me/qiangpa
+
+
+### 已经不推荐使用squid
+目前通过squid已经访问https都会被墙，需要数据进行加密，例如  可以配合stunnel继续使用
 
 不过已经不方便，建议换ssr > https://github.com/rptec/SSR-Bash-Python   免费服务依旧提供，保留部分节点   请自行注册 http://www.fuli.cf/
 
@@ -8,7 +13,7 @@
 =======
 利用国外VPS搭建多协议代理服务
 支持win，mac，安卓，IOS全部平台。无需额外软件。。适合新手使用。   
-# 我提供的免费翻墙   
+### 我提供的免费翻墙   
 
 > http://cdn.rpsofts.com/1.pac
 
@@ -25,7 +30,7 @@
  我洛杉矶节点的 搭配 bbr  youtube connection speed 在8000 Kbps左右。。
 
  
-# 廉价vps推荐：
+### 廉价vps推荐：
 这里主要推荐 vultr do及linode这三家主机商。
 linode最新推出了5刀vps，注册后使用优惠码，赠送20刀，  
 > 优惠码 podcastinit2017
